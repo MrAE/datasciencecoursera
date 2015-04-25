@@ -23,6 +23,12 @@ each measurement.
 with the average of each variable for each activity and each subject.
 
 
+### To Run 
+To work, the script should be in the 'UCI HAR Dataset' directory.
+To run, just execute the script from terminal via 'Rscript
+run_analysis.r' or run it from RStudio.
+
+
 ### Output
 
 A csv file named "TidyDataSet.csv" that merges the test and training

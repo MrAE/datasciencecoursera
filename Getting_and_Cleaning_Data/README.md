@@ -3,7 +3,7 @@
 This is the course project README for the Coursera 
 [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage) 
 Getting and Cleaning Data course.  The explanations of the variables
-and experiment that generated the data are given in CodeBook.md 
+and experiment that generated the data are given in the CodeBook.md 
 
 The data used for this project are located here: 
 
